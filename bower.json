@@ -1,0 +1,14 @@
+{
+  "name": "chatting-app-with-nodejs",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Emre Orhan <videokod7@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "chatting",
+    "system"
+  ],
+  "homepage": "https://github.com/mreorhan/Chatting-App-with-NodeJs"
+}
